@@ -53,7 +53,7 @@ Shadowsocks（简称SS） 和 ShadowsocksR（简称SSR）听起来都挺耳熟�
 ### **第四步：安装Shadowsocks服务端**
 
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/MaRuifu/Shadowsocks/main/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 ```
 
 
